@@ -1,4 +1,4 @@
-const charactersAPI = new APIHandler("http://localhost:8000");
+const charactersAPI = new APIHandler("http://localhost:3000");
 console.log("-----Start-----");
 console.log(charactersAPI);
 
